@@ -14,7 +14,7 @@ const Hero = () => (
         Welcome to <br /> My Personal Portfolio
       </SectionTitle>
       <SectionText>
-      I whole heartdly welcome you in my Portfolio Website.
+      I whole heartdly welcome you to my Portfolio Website.
       </SectionText>
     </LeftSection>
   </Section>
